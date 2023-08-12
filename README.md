@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rkelkar01
+- 👋 Hi, I’m @Rkelkar01. I am fresher Web developer.
 - 👀 I’m interested in Frontend Development, Web Development-
 -  🌱 I’m currently learning Jquery and React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can email me on kelkarraviraj@gmail.com
 
 <!---
